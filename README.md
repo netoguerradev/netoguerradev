@@ -1,4 +1,4 @@
-## Olá, me chamo Valter Guerra, sou desenvolvedor Web e tenho experiência com NodeJs, utilizando o framework express, atualmente também estudando e realizando projetos front-end com React e React Native
+## Hello! My name is Valter Guerra and i'm computer science student.
 
 <div align="center">
   <a href="https://github.com/netoguerradev">
