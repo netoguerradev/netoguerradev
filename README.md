@@ -1,5 +1,4 @@
-## Hello! My name is Valter Guerra and i'm computer science student.
-
+## Hello! My name is Valter Guerra and i'm computer science Undergraduate
 <div align="center">
   <a href="https://github.com/netoguerradev">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=netoguerradev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
