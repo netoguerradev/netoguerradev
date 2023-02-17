@@ -1,5 +1,5 @@
 ## About Me:
-Hello! My name is Valter Guerra and i'm computer science undergraduate in Cesar school.<br><br>🔧Technologies that I already use nowadays:<br>Node<br>React <br>Git <br>Arduino <br>Python<br><br>📚Technologies that I'm learning right now:<br>Data Science<br>Docker<br>SQL<br>Linux Terminal
+Hello! My name is Valter Guerra and i'm computer science undergraduate in Cesar school.<br><br>🔧Technologies that I already use nowadays:<br>Node<br>React <br>Git <br>Arduino <br>Python<br><br>📚Technologies that I'm learning right now:<br>Django<br><br>SQL<br>Linux Terminal
 
 
 ## 🌐 Socials:
